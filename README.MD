@@ -2,10 +2,15 @@
 
 ### 參數調整步驟
 (1) 確定學習速率和理想的決策樹數量
+
 (2) 調整 max_depth 和 min_weight 參數
+
 (3) 調整 gamma 參數
+
 (4) 調整 subsample 和 colsample_bytree
+
 (5) regularization 參數調整
+
 (6) 嘗試降低學習速率
 
 ### 得出最佳參數組合
