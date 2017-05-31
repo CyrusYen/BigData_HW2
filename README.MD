@@ -3,7 +3,9 @@
 ## Xgboost
 ### 調整步驟
 (1) 確定學習速率和理想的決策樹數量
+
 (2) 調整 max_depth 和 min_weight 參數
+
 (3) 調整 gamma 參數和 n_estimators
 
 ### 最佳參數組合
@@ -17,7 +19,9 @@
 ## GradientBoost
 ### 調整步驟
 (1) 確定學習速率和理想的決策樹數量
+
 (2) 調整 max_depth 和 min_samples_split 參數
+
 (3) 調整 min_samples_leaf 參數和 n_estimators
 
 ### 最佳參數組合
