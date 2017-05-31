@@ -10,7 +10,7 @@
 
 ### 最佳參數組合
     
-    max_depth = 5
+    max_depth = 6
     min_child_weight = 1
     gamma = 0.0
     n_estimators = 120
@@ -26,7 +26,7 @@
 
 ### 最佳參數組合
 
-    max_depth = 9
+    max_depth = 8
     min_samples_split = 200
     n_estimators = 200
     min_samples_leaf = 20
